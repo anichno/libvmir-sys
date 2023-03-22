@@ -1,0 +1,3 @@
+[submodule "vmir"]
+	path = vmir
+	url = https://github.com/andoma/vmir.git
